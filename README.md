@@ -36,13 +36,6 @@
 - [ ] 4단계: 이탈 고객 특성 분석
 - [ ] 5단계: 인사이트 도출
 
-## 📁 폴더 구조
-queries/
-├── 01_eda.sql
-├── 02_churn_definition.sql
-├── 03_churn_extraction.sql
-├── 04_churn_analysis.sql
-└── 05_insight.sql
 
 ## 🔍 결과 및 인사이트
 추후 업데이트 예정
