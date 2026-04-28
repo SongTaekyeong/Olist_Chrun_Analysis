@@ -8,6 +8,11 @@
 - **데이터 출처:** [Kaggle - Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - **분석 기간:** 2016년 ~ 2018년
 
+
+## 📊 시각화 대시보드
+- [Tableau Dashboard 보기](https://public.tableau.com/app/profile/.26608861/viz/Olist_chrun_dashboard/Olist?publish=yes)
+
+> 이탈 비율 현황, 카테고리별 이탈 현황, 지역별 이탈률, 결제금액별 이탈 현황을 시각화
 ---
 
 ## 📂 데이터셋
